@@ -1,0 +1,22 @@
+{
+  "name": "crud-mongodb",
+  "version": "1.0.0",
+  "description": "![GitHub License](https://img.shields.io/github/license/gabrielxla/CRUD-MongoDB)",
+  "main": "main.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielxla/CRUD-MongoDB.git"
+  },
+  "author": "Gabriel Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielxla/CRUD-MongoDB/issues"
+  },
+  "homepage": "https://github.com/gabrielxla/CRUD-MongoDB#readme",
+  "dependencies": {
+    "mongoose": "^8.12.1"
+  }
+}
